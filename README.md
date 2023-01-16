@@ -1,26 +1,29 @@
 # UAS Pemrograman Web Lanjut
-<h2>Sistem Informasi Pegawai Menggunakan Laravel 9</h2> 
-<h3>Aditio Hidayatulloh</h3>
-<h4>A2-2113201044</h4>
-<h4>Teknik Informatika Universitas Sangga Buana YPKP</h4>
+<h2>Sistem Informasi Kepegawaian "Techployee" berbasis website</h2> 
+<h3>Nathanael Joseph Dewantara</h3>
+<h4>Sistem Informasi / 04219016</h4>
+<h4>Fakultas Ilmu Komputer - Universitas Narotama</h4>
 
 
 # Fitur Requirements :
 <ol>
-<li>Pengelolaan Data Karyawaan.</li>
+<li>Pengelolaan Data Pegawai.</li>
 <li>Pengelolaan Data Profile.</li>
 <li>Pengelolaan Data Jabatan.</li>
 <li>Pengelolaan Data Divisi.</li>
-<li>Pengelolaan Data Gaji Karyawan.</li>
-<li>Pengelolaan Data Jadwal Karyawan.</li>
-<li>Pengelolaan Data Absensi Karyawan.</li>
+<li>Pengelolaan Data Gaji Pegawai.</li>
+<li>Pengelolaan Data Jadwal Pegawai.</li>
+<li>Pengelolaan Data Absensi Pegawai.</li>
+<li>Pengelolaan Perizinan Pegawai.</li>
+<li>Pengelolaan Peringatan Pegawai.</li>
 <li>Export Data ke PDF</li>
 </ol>
 
 # Library yang digunakan :
 <ul>
 <li>Laravel UI</li>
-<li>Bootstrap 5</li>
+<li>Bootstrap 4</li>
+<li>AdminLTE</li>
 <li>FontAwesome</li>
 <li>realrashid/sweet-alert</li>
 <li>Template Azzara</li>
