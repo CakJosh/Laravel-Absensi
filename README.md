@@ -23,7 +23,10 @@
 <ul>
 <li>Laravel UI</li>
 <li>Bootstrap 4</li>
+<<<<<<< HEAD
 <li>AdminLTE</li>
+=======
+>>>>>>> 94f5f30cbf508f193acb421057e604cac070c162
 <li>FontAwesome</li>
 <li>realrashid/sweet-alert</li>
 <li>Template Azzara</li>
